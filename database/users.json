@@ -1,0 +1,51 @@
+[
+    {
+        "userId": 1,
+        "username": "salim",
+        "password": "123456789",
+        "avatar": "photo_2022-07-28_00-59-00.jpg",
+        "socketId": null
+    },
+    {
+        "userId": 2,
+        "username": "ali",
+        "password": "123456789",
+        "avatar": "photo_2022-07-28_00-59-00.jpg",
+        "socketId": null
+    },
+    {
+        "userId": 3,
+        "username": "dilshod",
+        "password": "123456789",
+        "avatar": "photo_2022-07-28_00-59-00.jpg",
+        "socketId": "pnvbgGJQM4KPunfOAAAR"
+    },
+    {
+        "userId": 4,
+        "username": "nodir",
+        "password": "123456789",
+        "avatar": "photo_2022-07-28_00-59-00.jpg",
+        "socketId": null
+    },
+    {
+        "userId": 5,
+        "username": "Mirmuhsin",
+        "password": "123456789",
+        "avatar": "166288451740971.jpg",
+        "socketId": null
+    },
+    {
+        "userId": 6,
+        "username": "firdavs",
+        "password": "1234567889",
+        "avatar": "166296255320871.jpg",
+        "socketId": null
+    },
+    {
+        "userId": 7,
+        "username": "ganisher",
+        "password": "123456789",
+        "avatar": "166296281919371.jpg",
+        "socketId": "JP3Oqk1deuE0f96JAAAB"
+    }
+]
